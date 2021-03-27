@@ -14,4 +14,11 @@ for i in range(int_input, 0, -1):
 
 outside_root = int(math.sqrt(user_input/root)) #this is the value inside root symbol
 
-print(outside_root, "akar", inside_root)
+print(outside_root, "root", inside_root)
+
+sample input  : 90
+sample output : 3 root 10
+    
+
+sample input  : 54
+sample output : 3 root 6
